@@ -9,13 +9,16 @@
   * Function:
    > * 1. Build a team by listing the requirements 
    > * 2. Join a team by matching 
-   > * 3. Search for the recent competiotions information</br>
+   > * 3. Search for the recent competiotions information  
    
-  **App Demo**</br>
+  **App Demo**  
+  
   ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/Join.gif)
   ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/differentPage.gif)
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/notifiaction.gif)</br>
-  **App Screenshot**</br>
+  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/notifiaction.gif)
+  
+  **App Screenshot**  
+  
   <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/我的頁面.jpeg" width="25%" height="25%">
   <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/組隊頁面.jpeg" width="25%" height="25%">
   <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/組隊頁面2.jpeg" width="25%" height="25%">
