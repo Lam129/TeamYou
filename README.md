@@ -17,9 +17,9 @@
   ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/notifiaction.gif)
   </br>
   **App Screenshot**</br>
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/我的頁面.jpeg)
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/比賽頁面.jpeg)
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/組隊頁面.jpeg)
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/組隊頁面2.jpeg)
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/通知頁面.jpeg)
-  ![image](https://github.com/Lam129/TeamYou/blob/master/app_screenshot/隊伍頁面.jpeg)
+  <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/我的頁面.jpeg" width="25%" height="25%">
+  <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/比賽頁面.jpeg" width="25%" height="25%">
+  <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/組隊頁面.jpeg" width="25%" height="25%">
+  <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/組隊頁面2.jpeg" width="25%" height="25%">
+  <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/通知頁面.jpeg" width="25%" height="25%">
+  <img src="https://github.com/Lam129/TeamYou/blob/master/app_screenshot/隊伍頁面.jpeg" width="25%" height="25%">
